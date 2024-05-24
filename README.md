@@ -1,9 +1,9 @@
-Topic:
+**Topic:**
 Utilizing Machine Learning to Forecast the Probability of Successfully Collecting Debts by Analyzing Statute-Barred Status
 ![image](https://github.com/ShreyaMankar-07/Finance_Domain/assets/154683639/a78345b3-d114-4e29-8a17-6b040ca02318)
 
 
-Problem Statment:
+**Problem Statment:**
 
 In the realm of debt collection, the ability to discern which accounts are statute-barred—thus potentially unrecoverable—holds immense significance. 
 This project endeavors to develop a sophisticated machine-learning model aimed at accurately predicting the probability of successfully collecting debts by meticulously examining the statute-barred status of each account.
@@ -11,4 +11,4 @@ Given a dataset encompassing a multitude of attributes including original credit
 The focal point of this endeavor centers on the IsStatBarred field ‘Y’ status, which serves as the pivotal target variable for classification. 
 ![image](https://github.com/ShreyaMankar-07/Finance_Domain/assets/154683639/72f8a427-ab8c-4a89-904f-9dafcee2a3be)
 
-**Refer the Powerpoint Presentation for understanding the flow of building the model for easier understaning**
+*Refer the Powerpoint Presentation for understanding the flow of building the model for easier understaning*
