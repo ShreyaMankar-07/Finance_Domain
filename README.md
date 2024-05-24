@@ -11,4 +11,4 @@ Given a dataset encompassing a multitude of attributes including original credit
 The focal point of this endeavor centers on the IsStatBarred field ‘Y’ status, which serves as the pivotal target variable for classification. 
 ![image](https://github.com/ShreyaMankar-07/Finance_Domain/assets/154683639/72f8a427-ab8c-4a89-904f-9dafcee2a3be)
 
-*Refer the Powerpoint Presentation for understanding the flow of building the model for easier understaning*
+*Refer the Powerpoint Presentation for understanding the flow of Model Building*
